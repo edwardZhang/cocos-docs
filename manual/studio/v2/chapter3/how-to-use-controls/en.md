@@ -24,8 +24,3 @@
     * [3.2.4 PageView](../containers/pageview/en.md)
 * 3.3 Custom        
     * [3.3 Armature](../custom/armature/en.md)
-* 3.4  3D widgets
-    * [3.4.1 Basic properties](../3D/basic-parameter/zh.md)
-    * [3.4.2 Camera](../3D/camera/zh.md)
-    * [3.4.3 Model](../3D/model/zh.md)
-    * [3.4.4 3D particles](../3D/particle/zh.md)

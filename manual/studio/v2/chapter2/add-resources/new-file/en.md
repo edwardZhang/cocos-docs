@@ -1,6 +1,6 @@
 # 2.2.1 New File
 
-With Cocos Studio you can create scene, layers, node, SpriteSheet and 3D scenes, five file types.
+With Cocos Studio you can create scene, layers, node, SpriteSheet four file types.
 
 ![Image](res/image129.gif)
 
@@ -40,9 +40,6 @@ It is a very useful feature for game developers, it could increase the performan
 
 Recommends that your SpriteSheet is less than 1024 * 1024, otherwise some device might have problem supporting it.
 
-####3D scenes
-3D scenes are used to create 3D features, such as background, outposts, special effects and key battle scenes. When editing 3D scenes, cocos UI will automatically adjust itself, by displaying only 3D widgets and features.
-
 ####How to choose the file type
 	
 Cocos2d-x use scene graph to manage the game, a game can be divided into different scene, a scene can be divided into different layers, one layer and can have any number of nodes.
@@ -51,12 +48,12 @@ There is always a scene presenting, and director will control the switching of t
 
 ![Image](res/image032.png)
 
-So whether to create a scene or a layer, you can base on the following assumption, Use scene for the main features, such as the login screen, the main interface, the battle interface.
+So whether to create a scene or a layer, you can base on the following assumption, Use scene 
 
-Use layers when you just need to change the graphics, such as character attributes, items backpacks, App Store, skill.
+for the main features, such as the login screen, the main interface, the battle interface.
+
+use layers when you just need to change the graphics, such as character attributes, items backpacks, App Store, skill.
 
 Use node for reusable components.
 
 Use spritesheet to optimize the game performance.
-
-Use 3D objects for 3D background, such as 3D game environment, interfaces for 3D characters to change clothes, etc.  

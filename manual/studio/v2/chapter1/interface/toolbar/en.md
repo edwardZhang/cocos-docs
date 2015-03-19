@@ -1,7 +1,7 @@
 # 1.1.1 Toolbar
 
 
-The toolbar contains five basic components: Preview, Publish, Resolution, Alignment  and left mouse button-group.
+The toolbar contains four basic components: Preview, Publish, Resolution, Alignment
 
 ![image](res/image002.png)
 
@@ -17,9 +17,3 @@ Resolution - set the resolution of the current project as well as to switch the 
 ![image](res/image005.png)
 
 Alignment - align select elements on the canvas,
-
-![image](res/image006.png)
-#### Notes: Left mouse button-group will display when editing 3D scenes; 
-Left mouse buttons group includes 3 options: Position (change widgets’ position), Rotation (rotate the selected widgets) and Scaling (change widgets’ size). The drag-and-drop functions vary from the 3 options. Users can select each function by clicking corresponding button. The default option is Position. 
-
-![image](res/image007.png)

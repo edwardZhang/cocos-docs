@@ -25,8 +25,3 @@
     * [3.2.4 翻页容器](../containers/pageview/zh.md)
 * 3.3 自定义控件
     * [3.3.1 Armature](../custom/armature/zh.md)
-* 3.4 3D控件
-    * [3.4.1 基础属性](../3D/basic-parameter/zh.md)
-    * [3.4.2 摄像机](../3D/camera/zh.md)
-    * [3.4.3 模型](../3D/model/zh.md)
-    * [3.4.4 3D粒子](../3D/particle/zh.md)
