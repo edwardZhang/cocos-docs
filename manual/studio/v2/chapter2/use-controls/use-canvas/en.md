@@ -9,7 +9,7 @@ You can create a new file or open an existing file, the currently open file will
 
 ![Image](res/image043.png)
 
-It should be noted that, Unlike scene, layer, node. SpriteSheet can’t be manipulated on canvas.
+It should be noted that, Unlike scene, layer, node. SpriteSheet can’t be manipulated on canvas. When editing 3D scenes, cocos UI only displays 3D functions.
 
 ####Adding nodes
 For example add widgets to our sample (MissionSelect.csd) you can do the following
