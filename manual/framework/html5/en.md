@@ -1,6 +1,6 @@
 # Cocos2d-JS
 
-<img src="http://www.cocos2d-x.org/attachments/download/1508" height=180> 
+<img src="http://cocos2d-x.org/s/images/img-cocos2djs.jpg" height=180> 
 
 Cocos2d-JS is Cocos2d-x engine's JavaScript version that includes Cocos2d-html5 and Cocos2d-x JavaScript Bindings. It equips your game with cross-browser and cross-platform abilities, accompanied by full Cocos2d-x features and simplified JavaScript friendly APIs.
 
@@ -20,7 +20,7 @@ Furthermore, JavaScript friendly APIs make your game development experience a br
 - [Cocos2d-JS Full Version Download](http://www.cocos2d-x.org/download)
 - [Cocos2d-JS Lite Version](http://www.cocos2d-x.org/filecenter/jsbuilder)
 - [Online API reference](http://www.cocos2d-x.org/wiki/Reference)
-- [Downloadable API reference](http://www.cocos2d-x.org/filedown/Cocos2d-JS-v3.0-API.zip)
+- [Downloadable API reference](http://www.cocos2d-x.org/filedown/Cocos2d-JS-v3.5-API.zip)
 - [Online test cases](http://cocos2d-x.org/js-tests/)
 
 ## Main features
@@ -60,14 +60,37 @@ Furthermore, JavaScript friendly APIs make your game development experience a br
    
 ## Documents
 
-- [Highlighted release note of Cocos2d-JS v3.2](./release-notes/v3.2/release-note/en.md)
-- [Changelog of Cocos2d-JS v3.2](./release-notes/v3.2/changelog/en.md)
-- [Upgrade guide to Cocos2d-JS v3.2](./release-notes/v3.2rc0/upgrade-guide/en.md)
+- [Highlighted release note of Cocos2d-JS v3.6.1](./release-notes/v3.6.1/release-note/en.md)
+- [Changelog of Cocos2d-JS v3.6.1](./release-notes/v3.6.1/changelog/en.md)
+- [Upgrade guide to Cocos2d-JS v3.6.1](./release-notes/v3.6/upgrade-guide/en.md)
 - Startup
     - [Lite Version workflow](./v3/lite-version/en.md)
-    - [Why use Cocos2d-html5 for Game Development](./v2/cocosh5-advantages/en.md)
+    - [Why use Cocos2d-JS for Game Development](./v2/cocosh5-advantages/en.md)
     - [Resolution Policy Design for Cocos2d-JS](./v2/resolution-policy-design/en.md)
-    - [History release notes](./release-notes/en.md)
+    - [History release notes and upgrade guides](./release-notes/en.md)
+    
+- Programmers Guide
+    - 1. About Cocos2d-JS
+        - [1.1 A brief history](../cocos2d-js/1-about-cocos2d-js/1-1-a-brief-history/en.md)
+        - [1.2 Where to get help](../cocos2d-js/1-about-cocos2d-js/1-2-where-to-get-help/en.md)
+    - 2. Working environment and workflow
+        - [2.1 Cocos2d-JS Lite version workflow](../cocos2d-js/2-working-environment-and-workflow/2-1-cocos2d-js-lite-workflow/en.md)
+        - [2.2 Cross native / browser game with Cocos Console](../cocos2d-js/2-working-environment-and-workflow/2-2-cross-native-browser-game-with-cocos-console/en.md)
+        - [2.3 Workflow with Cocos Code IDE](../cocos2d-js/2-working-environment-and-workflow/2-3-workflow-with-cocos-code-ide/en.md)
+    - 3. Jumping into Cocos2d-JS
+        - [3.1 Installation](../cocos2d-js/3-jumping-into-cocos2d-js/3-1-installation/en.md)
+        - [3.2 Creating your first scene](../cocos2d-js/3-jumping-into-cocos2d-js/3-2-creating-your-first-scene/en.md)
+        - [3.3 Adding content to the scene](../cocos2d-js/3-jumping-into-cocos2d-js/3-3-adding-content-to-the-scene/en.md)
+        - [3.4 Using actions to animate the scene](../cocos2d-js/3-jumping-into-cocos2d-js/3-4-using-actions-to-animate-scenes/en.md)
+        - [3.5 Transition between scenes](../cocos2d-js/3-jumping-into-cocos2d-js/3-5-transition-between-scenes/en.md)
+        - [3.6 Creating user interaction with EventManager](../cocos2d-js/3-jumping-into-cocos2d-js/3-6-creating-user-interaction-with-event-manager/en.md)
+    - 4. Essential concepts
+        - [4.1 Cocos2d-JS project](../cocos2d-js/4-essential-concepts/4-1-cocos2d-js-project/en.md)
+        - [4.2 Game object](../cocos2d-js/4-essential-concepts/4-2-game-object/en.md)
+        - [4.3 Coordinate system](../cocos2d-js/4-essential-concepts/4-3-coordinate-system/en.md)
+        - [4.4 Resolution policies](../cocos2d-js/4-essential-concepts/4-4-resolution-policies/en.md)
+        - [4.5 Scene graph](../cocos2d-js/4-essential-concepts/4-5-scene-graph/en.md)
+        - [4.6 Director of game](../cocos2d-js/4-essential-concepts/4-6-director-of-game/en.md)
         
 - New features and API changes in version 3.x:
     - [New workflow with cocos console](./v2/cocos-console/en.md)
@@ -110,6 +133,7 @@ Furthermore, JavaScript friendly APIs make your game development experience a br
     - [Plugin-x architecture](./jsb/plugin-x/plugin-x-architecture/en.md)
     - [How to write your own Plugin for Android](./jsb/plugin-x/how-to-write-your-own-plugin-for-android/en.md)
     - [Use iOS IAP Plugin](./jsb/plugin-x/ios-iap/en.md)
+    - [How to use Firefox remote debugger](http://cocos2d-x.org/docs/manual/framework/native/v3/js-remote-debugger/en)
 
 - Tutorials
     - [Tutorial root](http://cocos2d-x.org/docs/tutorial/framework/html5/en)
